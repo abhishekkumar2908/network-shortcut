@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_description">Lets Network Shortcut pick 4G or 5G in your phone\'s mobile network settings for you. It only looks at the Settings app, and only right after you choose 4G or 5G in its popup.</string>
+</resources>
